@@ -1,0 +1,5 @@
+{
+"name":"Allenamento Lampo","short_name":"Lampo",
+"icons":[{"src":"gifs/ex1.gif","sizes":"256x256","type":"image/gif"}],
+"start_url":"./","display":"standalone","theme_color":"#4CAF50","background_color":"#ffffff"
+}
